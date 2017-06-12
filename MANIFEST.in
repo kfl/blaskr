@@ -1,0 +1,3 @@
+graft blaskr/templates
+graft blaskr/static
+include blaskr/schema.sql

@@ -1,0 +1,4 @@
+.eggs/
+/blaskr.egg-info
+/env
+blaskr.db

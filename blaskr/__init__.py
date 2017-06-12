@@ -1,0 +1,1 @@
+from .blaskr import app
